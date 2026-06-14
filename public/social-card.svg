@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4f0e6"/>
+  <circle cx="1020" cy="90" r="260" fill="#f4b942" opacity=".9"/>
+  <circle cx="1080" cy="560" r="300" fill="#174f3d"/>
+  <path d="M90 105h92v92H90z" rx="24" fill="#174f3d"/>
+  <path d="M107 129c18-8 32-5 42 5v46c-10-10-24-13-42-5v-46Z" fill="#fffaf0"/>
+  <path d="M165 129c-18-8-32-5-42 5v46c10-10 24-13 42-5v-46Z" fill="#f4b942"/>
+  <text x="215" y="160" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#18251f">Gurukul AI</text>
+  <text x="90" y="315" font-family="Georgia, serif" font-size="82" fill="#18251f">Learning that speaks</text>
+  <text x="90" y="410" font-family="Georgia, serif" font-size="82" font-style="italic" fill="#e66d32">your language.</text>
+  <text x="94" y="492" font-family="Arial, sans-serif" font-size="27" fill="#425149">Marathi-first AI for Maharashtra's classrooms.</text>
+</svg>

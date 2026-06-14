@@ -1,0 +1,16 @@
+{
+  "name": "Gurukul AI",
+  "short_name": "Gurukul AI",
+  "description": "Marathi-first AI learning for Maharashtra",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e6",
+  "theme_color": "#174f3d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
